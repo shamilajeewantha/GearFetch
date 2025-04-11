@@ -18,3 +18,14 @@ https://chatgpt.com/share/67f930e3-a7f4-8003-a375-1cf07502c970
 
 latest med info
 news latest developments
+
+## pdfs
+
+psycholog firstaid
+
+https://www.nctsn.org/sites/default/files/resources//pfa_field_operations_guide.pdf
+
+chapeter 1
+https://knowledge.aidr.org.au/media/1992/manual-35-general-and-disaster-rescue.pdf
+
+https://www.efpa.eu/sites/default/files/2023-03/Caring%20for%20Others%2C%20Caring%20for%20Yourself%202002.pdf
